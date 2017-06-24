@@ -1,0 +1,18 @@
+{
+	"nrk": {
+		"rss": "http://www.nrk.no/toppsaker.rss",
+		"link": "https://www.nrk.no/"
+	},
+	"cnn": {
+		"rss": "http: //rss.cnn.com/rss/edition.rss",
+		"link": "http://edition.cnn.com/"
+	},
+	"bbc": {
+		"rss": "http://feeds.bbci.co.uk/news/rss.xml",
+		"link": "http://www.bbc.com/"
+	},
+	"theguardian": {
+		"rss": "https://www.theguardian.com/uk/rss",
+		"link": "https://www.theguardian.com/international"
+	}
+}
