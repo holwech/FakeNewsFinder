@@ -1,10 +1,5 @@
 {
-	"nrk": {
-		"rss": "http://www.nrk.no/toppsaker.rss",
-		"link": "https://www.nrk.no/"
-	},
 	"cnn": {
-		"rss": "http: //rss.cnn.com/rss/edition.rss",
 		"link": "http://edition.cnn.com/"
 	},
 	"bbc": {
@@ -14,5 +9,21 @@
 	"theguardian": {
 		"rss": "https://www.theguardian.com/uk/rss",
 		"link": "https://www.theguardian.com/international"
-	}
+	},
+  "breitbart": {
+    "link": "http://www.breitbart.com/"
+  },
+  "infowars": {
+    "link": "https://www.infowars.com/"
+  },
+  "foxnews": {
+    "link": "http://www.foxnews.com/"
+  },
+  "nbcnews": {
+    "link": "http://www.nbcnews.com/"
+  },
+  "washingtonpost": {
+    "rss": "http://feeds.washingtonpost.com/rss/world",
+    "link": "https://www.washingtonpost.com/"
+  }
 }
